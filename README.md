@@ -1,4 +1,4 @@
-PSCSTA 2015 Spring (Java)
+PSCSTA 2015 Spring (Java) [![Build Status](https://travis-ci.org/timtim17/PSCSTA.svg?branch=2015spring-java)](https://travis-ci.org/timtim17/PSCSTA)
 ======
 
 Me redoing the Python code in Java to prepare for PSCSTA 2015 Winter.
